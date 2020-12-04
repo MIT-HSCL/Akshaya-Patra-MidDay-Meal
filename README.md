@@ -3,8 +3,8 @@ The Mid-day Meal program is an initiative taken by the Government of India to im
 
 `Authors:`
 
-Priyanka Singh singhp@alum.mit.edu. 
-Afsaruzzaman Noor afsar@alum.mit.edu. 
+Priyanka Singh singhp@alum.mit.edu   
+Afsaruzzaman Noor afsar@alum.mit.edu   
 
-`SCM Capstone:`. 
+`SCM Capstone:`      
 https://dspace.mit.edu/handle/1721.1/117629
